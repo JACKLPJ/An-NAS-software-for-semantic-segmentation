@@ -9,9 +9,9 @@ Pillow                            9.0.1
 matplotlib                        3.2.2
 使用方法：
 首先将文件夹所有模块下载下来
-1.如果直接使用预训练的模型做测试，可以从此处（https://drive.google.com/drive/folders/1IynmiHDzKfhkZL_Oc41tI_iCC7gVImLt?usp=sharing）
+1.如果直接使用预训练的模型做测试，可以从此处（https://drive.google.com/drive/folders/1aJCfK8wG4XVCl5vvqrxmN3Swq1RQxW29?usp=sharing,   https://drive.google.com/drive/folders/1r3dn4mRVfc96-e0UZKEbEiWcmgS8g0qa?usp=sharing  ）  
 下载预训练模型（分别是u,seg文件夹），将这两个文件夹中的文件分别拷贝到文件夹checkpoint/Unet/model和checkpoint/Segnet/model中，运行Software.py文件即可出来前端页面：
-![f45ec938ce1be79bbac3508d08179ee](https://user-images.githubusercontent.com/42956088/156692085-6b7e2544-73f8-4d39-8215-7de5cee5f398.png)
+![f45ec938ce1be79bbac3508d08179ee](https://user-images.githubusercontent.com/42956088/156692085-6b7e2544-73f8-4d39-8215-7de5cee5f398.png)  
 （1）选择需要测试的模型（Unet/Segnet）
 ![69b2a244bd2b8344571af74962b0165](https://user-images.githubusercontent.com/42956088/156692109-445a41a0-c046-41f2-8750-df8447b63b62.png)
 （2）从本地选择RGB图片
